@@ -1,1 +1,1 @@
-Vendor blobs for LG L70 {MS323}
+Vendor blobs for LG Realm (LS620)
